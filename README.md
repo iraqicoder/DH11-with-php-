@@ -19,8 +19,8 @@ like this photo
 
 
 # contact with me
-
-info@lun3x.com
-my facebook : 
+my Email : <br>
+info@lun3x.com  <br>
+my facebook :  <br>
 https://www.facebook.com/xXAwrasXx
 
