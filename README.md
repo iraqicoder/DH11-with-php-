@@ -6,7 +6,8 @@ it use Temperature and humidity reading and send data to mysql database via php 
 1 - Arduino uno <br>
 2 - Arduino Ethernet Shield <br>
 3 - DH11 sensor <br>
-4 - Web Server or Vmwere server <br>
+4 - DHT library (0.1.13 version) <br>
+5 - Web Server or Vmwere server <br>
 
 
 # Circuit diagram
