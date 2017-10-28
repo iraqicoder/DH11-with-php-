@@ -3,10 +3,10 @@
 it use Temperature and humidity reading and send data to mysql database via php files and preview data
 
 # Requirements
-1 - Arduino uno
-2 - Arduino Ethernet Shield
-3 - DH11 sensor
-4 - Web Server or Vmwere server
+1 - Arduino uno <br>
+2 - Arduino Ethernet Shield <br>
+3 - DH11 sensor <br>
+4 - Web Server or Vmwere server <br>
 
 
 # Circuit diagram
